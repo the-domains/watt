@@ -1,0 +1,14 @@
+layout_spectrum: 0.7760713307652622
+typography_spectrum: 0.6397476315032691
+color:
+  brandStrength: 0.7255342670250684
+  lightness: 0.38998467987403274
+  saturation: 0.6134872303809971
+  rhythmicContrast: 0.14473520615138113
+  brandColors:
+    - '#BED431'
+    - '#153E20'
+    - '#DFDEE4'
+    - '#B4B3BB'
+    - '#67B445'
+name: WATT
